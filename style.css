@@ -202,14 +202,14 @@ margin-top: 15px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        margin-top: 80px;
+        margin-top: 30px;
     
     }
 }
 @media only screen and (min-width:200px) and (max-width:400px){
     .main-box{
         width: 100%;
-        border: 1px solid red;
+        /* border: 1px solid red; */
         display: flex;
         flex-direction: column;
         justify-content: center;
