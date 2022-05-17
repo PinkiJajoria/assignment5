@@ -250,6 +250,7 @@ line-height: 25px;
     .bottom-link{
         text-decoration: none;
         color: #444444;
+        font-weight: 300;
     }
 }
 @media only screen and (min-width:200px) and (max-width:400px){
